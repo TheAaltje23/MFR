@@ -1,1 +1,1 @@
-MAFIA RACING LEAGUE
+This is the website for MAFIA RACING LEAGUE.
